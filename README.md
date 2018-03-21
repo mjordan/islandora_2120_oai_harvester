@@ -15,8 +15,8 @@ To install the reporter:
 
 ## Usage
 
-* Change any configuration paramters you need to, e.g., the endpoint or the metadata prefix.
-* Run `harvester.php`.
+* Change any configuration paramters you need to, e.g., the `$set` variable.
+* Run `php harvester.php`.
 
 ## License
 
